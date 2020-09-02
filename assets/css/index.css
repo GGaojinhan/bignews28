@@ -1,0 +1,13 @@
+iframe {
+    width: 100%;
+    height: 100%;
+}
+
+.layui-body {
+    overflow: hidden;
+}
+
+.layui-footer {
+    text-align: center;
+    font-size: 12px;
+}
